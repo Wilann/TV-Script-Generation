@@ -8,4 +8,4 @@ Project 3 from Udacity's [Deep Learning Nanodegree](https://www.udacity.com/cour
 
 ### Overview
 
-Generating fake TV scripts using RNNs based on patterns it recognizes in the training data.
+Generating fake TV scripts using Recurrent Neural Networks (RNN) based on patterns it recognizes in the training data.
